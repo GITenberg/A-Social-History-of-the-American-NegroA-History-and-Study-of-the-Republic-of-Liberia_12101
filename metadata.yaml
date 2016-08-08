@@ -1,0 +1,33 @@
+_repo: A-Social-History-of-the-American-NegroA-History-and-Study-of-the-Republic-of-Liberia_12101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brawley, Benjamin Griffith
+    alias: Brawley, B. G. (Benjamin Griffith)
+    birthdate: 1882
+    deathdate: 1939
+    gutenberg_agent_id: '4226'
+    url: http://www.gutenberg.org/2009/agents/4226
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Griffith_Brawley
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- History'
+- !lcc 'E151'
+- !lcsh 'United States -- Race relations'
+- !lcsh 'African Americans -- History'
+- !lcsh 'African Americans -- Social conditions'
+- !lcc 'DT'
+- !lcsh 'Liberia -- History'
+- GITenberg
+title: "A Social History of the American Negro\r\nBeing a History of the Negro Problem\
+  \ in the United States. Including A History and Study of the Republic of Liberia"
+url: http://www.gutenberg.org/ebooks/12101
