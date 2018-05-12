@@ -1,5 +1,8 @@
 _repo: A-Social-History-of-the-American-NegroA-History-and-Study-of-the-Republic-of-Liberia_12101
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brawley, Benjamin Griffith
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4226
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Griffith_Brawley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12101#A-Social-History-of-the-American-NegroA-History-and-Study-of-the-Republic-of-Liberia
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
